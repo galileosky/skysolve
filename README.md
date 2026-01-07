@@ -13,7 +13,7 @@ Camera:
 https://www.amazon.com/dp/B093BY2TK2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
  
 Lens:
-https://www.amazon.com/dp/B01IEDSKHE?psc=1&ref=ppx_pop_dt_b_product_details
+25mm FL F1.4 cmount lens.
 
 
 ## Description.
